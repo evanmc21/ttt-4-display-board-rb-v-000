@@ -10,5 +10,3 @@ def display_board(board)
   puts "   |   |   "
   puts "X:#{board[4]}"
 end
-
-

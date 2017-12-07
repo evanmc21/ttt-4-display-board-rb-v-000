@@ -8,5 +8,5 @@ def display_board(board)
   puts "   |   |   "
 end
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-  puts "   | #{4} |   "
+  puts "   | #{board[4]} |   "
 end

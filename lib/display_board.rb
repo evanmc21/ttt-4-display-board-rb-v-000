@@ -8,5 +8,5 @@ def display_board(board)
   puts "   |   |   "
 end
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
- puts "the token in the middle of the board is #{board[4]}"
+ puts "#{board[4]}"
  
